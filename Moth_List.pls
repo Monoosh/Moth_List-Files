@@ -1,0 +1,12 @@
+[playList]
+NumberOfEntries=3
+File1=https://rus.hitmotop.com/song/63487575
+Title1=Смекта
+Length1=-1
+File2=https://rus.hitmotop.com/song/62938298
+Title2=ДК_Любовь
+Lenght2=-1
+File3=https://rus.hitmotop.com/song/64293978
+Title3=Падать_в_грязь
+Lenght3=-1
+Version=2
